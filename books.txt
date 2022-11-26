@@ -1,0 +1,11 @@
+500, The Lord of The Rings: Fellowship, J.R.R Tolkien, 42.5
+501, The Lord of The Rings: Two Towers, J.R.R Tolkien, 32.5
+502, The Lord of The Rings: The Return of The Kings, J.R.R Tolkien, 62.5
+503, Harry Potter 1, J.R.R Tolkien, 22.5
+504, Harry Potter 2, J.R.R Tolkien, 24.5
+505, Harry Potter 3, J.R.R Tolkien, 25
+506, Harry Potter 4, J.R.R Tolkien, 15.5
+507, Harry Potter 5, J.R.R Tolkien, 42.75
+508, Harry Potter 6, J.R.R Tolkien, 27.5
+509, Harry Potter 7, J.R.R Tolkien, 25
+510, Harry Potter 8, J.R.R Tolkien, 32
