@@ -1,3 +1,10 @@
+require "./load.rb"
 
-@@student = Student.new(1, "Ali Can", "Gunes")
-# @student.display()
+class Main
+    load = Load.new
+    load.loadStudents
+    load.loadBooks
+    load.listStudents
+    load.listBooks
+end
+
