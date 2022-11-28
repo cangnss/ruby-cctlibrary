@@ -1,5 +1,5 @@
-require "./student.rb"
-require "./book.rb"
+require "./models/student.rb"
+require "./models/book.rb"
 
 class Load
     @@students = Array.new()
