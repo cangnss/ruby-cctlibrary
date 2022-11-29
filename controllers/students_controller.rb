@@ -14,4 +14,16 @@ class StudentsController
         end
     end
 
+    def searchStudent(word)
+        #puts word
+        @@students.each do |student|
+            @res = student.name.downcase.include?(word.downcase)
+            if @res == true
+                return student
+            else
+                return false
+            end
+        end
+    end
+
 end

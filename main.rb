@@ -28,7 +28,15 @@ class Main
                     @studentService.listStudentsSorted
                     break
                 when 3
-                    puts "3"
+                    puts "Enter a student name:"
+                    @word = gets.chomp()
+                    @res = @studentService.searchStudent(@word)
+                    if @res != false
+                        @res.display
+                    else
+                        puts "ogrenci bulunamadi"
+                    end
+                    break
                 when 4 
                     puts "4"
                 when 0
