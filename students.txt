@@ -1,2 +1,3 @@
 100, Ali Can Gunes, M, 25
 101, Dilek Yalcin, F, 24
+102, Akın Ck, M, 20

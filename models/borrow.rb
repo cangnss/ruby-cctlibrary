@@ -11,6 +11,3 @@ class Borrow
         puts "Student id: #@studentId"
     end
 end
-
-borrow = Borrow.new(1,1000,23423)
-borrow.display()

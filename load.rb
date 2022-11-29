@@ -43,4 +43,8 @@ class Load
     
     def loadBorrows
     end
+
+    def self.getStudents
+        return @@students
+    end
 end
